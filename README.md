@@ -14,6 +14,6 @@ Notice that you'll need superuser privileges to add or modify in this directory,
 
 ## How does it look like?
 
-![image](https://user-images.githubusercontent.com/64669432/116752696-3f181280-aa06-11eb-9f22-33e352aa917b.png)
+![image](https://user-images.githubusercontent.com/64669432/116753267-1c3a2e00-aa07-11eb-9723-8c1eae395a9a.png)
 
 Pretty neat, huh? This pairs well with some Carpenter Brut or Perturbator in the background, or perhaps Blade Runner or Escape from New York in another window ;)
